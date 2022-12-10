@@ -16,3 +16,4 @@
 4. Write a python program to add three numbers 25+’25’+25.0 and produce result 75 as string.
 
 5. Write a program that prints out the sine and cosine of the angles ranging from 0 to 345◦ in 15◦ increments. Each result should be rounded to 4 decimal places. Sample    output is shown below:
+![image](https://user-images.githubusercontent.com/120240247/206836134-ee931fa8-90b8-4cf5-b040-458a2cc67052.png)
