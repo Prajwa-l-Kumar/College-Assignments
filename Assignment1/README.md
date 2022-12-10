@@ -1,4 +1,4 @@
-#Assignment-1
+# Assignment-1
 
 1. Write a Python program to find average of three numbers entered by the user.
 
