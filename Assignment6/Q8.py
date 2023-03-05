@@ -1,5 +1,5 @@
 class py_solution:
- def threeSum(self, nums):
+    def threeSum(self, nums):
         nums, result, i = sorted(nums), [], 0
         while i < len(nums) - 2:
             j, k = i + 1, len(nums) - 1
